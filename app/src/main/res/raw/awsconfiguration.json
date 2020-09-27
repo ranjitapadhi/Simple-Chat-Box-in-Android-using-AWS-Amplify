@@ -1,0 +1,36 @@
+{
+    "UserAgent": "aws-amplify-cli/0.1.0",
+    "Version": "0.1.0",
+    "IdentityManager": {
+        "Default": {}
+    },
+    "CredentialsProvider": {
+        "CognitoIdentity": {
+            "Default": {
+                "PoolId": "us-east-1:be3c5d28-2677-4701-9e13-956410a709e4",
+                "Region": "us-east-1"
+            }
+        }
+    },
+    "CognitoUserPool": {
+        "Default": {
+            "PoolId": "us-east-1_GKK2l3iOQ",
+            "AppClientId": "56kfmebim3aqa5psll4fs2h72n",
+            "AppClientSecret": "nnuhln6ulo0uhd8u7qf0n55uinmcojrr6cdaqeh1dc3pvklpfsg",
+            "Region": "us-east-1"
+        }
+    },
+    "Auth": {
+        "Default": {
+            "authenticationFlowType": "USER_SRP_AUTH"
+        }
+    },
+    "AppSync": {
+        "Default": {
+            "ApiUrl": "https://zx35l34j4fds5ph2uliadijhla.appsync-api.us-east-1.amazonaws.com/graphql",
+            "Region": "us-east-1",
+            "AuthMode": "AMAZON_COGNITO_USER_POOLS",
+            "ClientDatabasePrefix": "simplechatboxa_AMAZON_COGNITO_USER_POOLS"
+        }
+    }
+}
