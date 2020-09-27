@@ -1,0 +1,10 @@
+type User @model {
+  id: ID!
+  name: String
+}
+
+type Message @model {
+  id: ID!
+  user: String
+  text: String
+}
