@@ -1,1 +1,1 @@
-# Simple-Chat-Box-in-Android-using-AWS-Amplify
+# Simple-Chat-Box in Android using AWS Amplify
