@@ -1,4 +1,4 @@
-# Simple-Chat-Box in Android using AWS Amplify
+# Simple Real-Time chat in Android using AWS Amplify
 
 Follow this steps
 
