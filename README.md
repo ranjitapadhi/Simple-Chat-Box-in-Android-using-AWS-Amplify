@@ -21,3 +21,5 @@ Step 4: `amplify codegen models`
 Step 5: `amplify push`. choose the default option
 
 Step 6: Copy the files in .Java and res files from https://github.com/sili42/Simple-Chat-Box-in-Android-using-AWS-Amplify/tree/master/app/src/main into your project and then Run.
+
+*Make Sure to change your app package name at app level build.Gradle file, which is inside app folder*
