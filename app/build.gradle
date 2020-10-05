@@ -5,7 +5,7 @@ android {
     buildToolsVersion "30.0.2"
 
     defaultConfig {
-        applicationId "com.blossomgames.simplechatbox"
+        applicationId "com.YOUR_OWN_COMPANY_NAME.YOUR_APP_NAME"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
