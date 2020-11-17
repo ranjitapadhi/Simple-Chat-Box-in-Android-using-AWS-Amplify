@@ -1,12 +1,12 @@
-# Simple-Chat-Box in Android using AWS Amplify
+# Simple Real-Time chat in Android using AWS Amplify
 
 Follow this steps
 
 Step 1: https://docs.amplify.aws/lib/project-setup/prereq/q/platform/android Project Setup
 
-Step 2: https://docs.amplify.aws/lib/project-setup/create-application/q/platform/android Create You Application
+Step 2: https://docs.amplify.aws/lib/project-setup/create-application/q/platform/android Create Your Application
 
-Step 3: https://docs.amplify.aws/lib/datastore/getting-started/q/platform/android Seup Datastore API while adding API using `amplfy add api` or `amplify update api` choose :
+Step 3: https://docs.amplify.aws/lib/datastore/getting-started/q/platform/android Setup Datastore API. While adding API using `amplfy add api` or `amplify update api` choose :
 
   1.`# Choose the default authorization type for the API` - `Cognito User Pool Default Settings`  
 
